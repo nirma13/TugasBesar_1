@@ -1,0 +1,27 @@
+Layanan web merupakan fenomena yang sangat panas saat ini karena, 
+banyak kelebihan yang ditawarkan oleh Web Service terutama interoperabilitas tinggi dan penggunaannya yang dapat 
+diakses kapanpun dan dimanapun selama mesin kita terhubung oleh jaringan internet salah satunya.
+Keuntungan penggunaan Web Service
+
+    Format penggunaan terbuka untuk semua platform.
+    Mudah di mengerti dan mudah men-debug.
+    Dukungan interface yang stabil.
+    Menggunakan standard-standard “membuka service sekali” dan mempunyai pemakai banyak.
+    Mudah untuk menengahi pesan-pesan proses dan menambahkan nilai.
+    Routing and pengiriman.
+    Security.
+    management and monitoring.
+    schema and service design.
+    Akselerasi.
+    mudah untuk mengembangkan dengan semantic transport tambahan.
+    Terbuka, standard-standard berbasis teks.
+    Pencapaian modular.
+    Tidak mahal untuk diimplementasikan (relatif).
+    Mengurangi biaya integrasi aplikasi enterprise.
+    Implementasi yang incremental.
+XML memungkinkan pengembang software untuk meng-expose sumber daya berharga pada bentuk yang memilki interoperabilitas 
+tinggi, dimana sumber daya ini adalah semua tipe aplikasi atau pnyimpanan data yang digunakan oleh antar organisasi. 
+Arsitektur XML Web services mendefinisikan mekanisme standard untuk menyediakan sumber daya melalui pengiriman pesan XML. 
+Untuk mengakses sumber daya hanya dengan mentransmisikan pesan-pesan XML melalui protokol standard seperti TCP, HTTP, atau 
+SMTP. Kata “Web Service” (singkatnya “service”) mengacu pada bagian kode yang mengimplementasikan interface XML menjadi 
+sumber daya, dimana bias jadi sulit diakses
